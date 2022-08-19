@@ -1,5 +1,18 @@
 header {
     background-color: #BBBBBB;
+    padding: 20px 0px; /* espaçamento interno 20px pra cima/baixo e 0 pra direita/esquerda*/
+}
+
+.caixa {
+    position: relative; 
+    width: 940px; /* largura fixa padrão da web */
+    margin: 0 auto; /* para alinhar a div ao centro, auto para direita/esquerda calcular automático e 0 para cima/baixo*/
+}
+
+nav {
+    position: absolute; /*posicionamento absoluto em relação a div caixa */
+    top: 110px;
+    right: 0;
 }
 
 nav li {
@@ -14,3 +27,4 @@ nav a {
     font-size: 22px;
     text-decoration: none;
 }
+
