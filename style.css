@@ -135,11 +135,26 @@ fieldset label, fieldset select {
     font-weight: bold;
     border: none;
     border-radius: 5px;
-    transition: 1s all; /* transição de todos os elementos no tempo indicado */
+    transition: 0.5s all; /* transição de todos os elementos no tempo indicado */
     cursor: pointer; /* modificar o estilo do ponteiro do mouse */
 }
 
 .enviar:hover {
     background: darkorange;
     transform: scale(1.1); /* aumentar em 10% proporcionalmente ao passar o mouse em cima*/
+}
+
+table {
+    margin: 20px 40px;
+}
+
+thead {
+    background: #555555;
+    color: #FFFFFF;
+    font-weight: bold;
+}
+
+th, td {
+    border: 1px solid #000000;
+    padding: 8px 15px;
 }
