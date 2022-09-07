@@ -4,7 +4,7 @@
 
 <h1>Barbearia Alura</h1>
 
-<p>Projeto dedicado a criação da página web fictícia da Barbearia Alura, desenvolvida a partir dos conhecimentos aplicados de HTML5 e CSS3 do curso de formação da Alura. Conceitos de posicionamento, listas e navegação, trabalhando com formulários, tabelas e marcação avançada no HTML.
+<p>Projeto dedicado a criação da página web fictícia da Barbearia Alura, desenvolvida a partir dos conhecimentos aplicados de HTML5 e CSS3. Conceitos de posicionamento, listas e navegação, trabalhando com formulários, tabelas e marcação avançada no HTML.
 
 Como a maior parte do fluxo de navegação da internet é mobile, as páginas foram também adapatadas numa versão com layout responsivo para dispositivos móveis.<p>
 
