@@ -9,4 +9,7 @@
 Como a maior parte do fluxo de navegação da internet é mobile, as páginas foram também adapatadas numa versão com layout responsivo para dispositivos móveis.<p>
 
 ![Barbearia Alura](https://user-images.githubusercontent.com/107778980/188992291-1928d206-c387-4bd4-b09d-a1a39f3f60fd.gif)
+<<<<<<< HEAD
 
+=======
+>>>>>>> 6c64f57fd5046bbefe60a89438cefb6dd275a299
