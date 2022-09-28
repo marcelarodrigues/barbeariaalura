@@ -6,7 +6,7 @@
 
 <p>Projeto dedicado a criação da página web fictícia da Barbearia Alura, desenvolvida a partir dos conhecimentos aplicados de HTML5 e CSS3. Conceitos de posicionamento, listas e navegação, trabalhando com formulários, tabelas e marcação avançada no HTML.
 
-Como a maior parte do fluxo de navegação da internet é mobile, as páginas foram também adaptadas numa versão com layout responsivo para dispositivos móveis. O resultaod final você encontra <a href="https://marcelarodrigues.github.io/barbearialura/index.html">aqui</a>.<p>
+Como a maior parte do fluxo de navegação da internet é mobile, as páginas foram também adaptadas numa versão com layout responsivo para dispositivos móveis. O resultado final você encontra <a href="https://marcelarodrigues.github.io/barbearialura/index.html">aqui</a>.<p>
 
 ![Barbearia Alura](https://user-images.githubusercontent.com/107778980/188992291-1928d206-c387-4bd4-b09d-a1a39f3f60fd.gif)
 
